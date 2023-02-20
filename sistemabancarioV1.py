@@ -52,8 +52,8 @@ while True:
                 print(f'--Depósito = R${i:.2f}'.replace('.', ','))
             else:
                 print(f'--Saque = R${i:.2f}'.replace('.', ','))
-        print(f'\nSALDO = {saldo:.2f}'.replace('.', ','))
-        print('-' * 20)
+        print(f'\n  SALDO = {saldo:.2f}'.replace('.', ','))
+        print('-' * 30)
         print('*'*30)
 
 
