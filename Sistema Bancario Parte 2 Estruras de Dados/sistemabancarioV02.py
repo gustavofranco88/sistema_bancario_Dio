@@ -60,7 +60,7 @@ while True:
         print(lista_contas(contas))
         escolha = int(input('Escolha sua opção: '))
 
-    elif escolha == 17:
+    elif escolha == 7:
         print('Saindo')
         break
     else:

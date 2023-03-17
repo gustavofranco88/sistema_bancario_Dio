@@ -58,6 +58,7 @@ while True:
 
 
         op = int(input('Escolha uma opção '))
+
     else:
         print('Saindo')
         break
